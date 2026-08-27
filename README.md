@@ -32,9 +32,6 @@ Saída do sitema:
 2.1 ```seuDireótio\Tradutor_infixa-posfixa\>gcc -o "NomeExecutável" analex.c analex.h sint.c```
 2.2 ```seuDireótio\Tradutor_infixa-posfixa\>"NomeExecutável"```
 2.3 ```seuDireótio\Tradutor_infixa-posfixa\>"Expressão"²;```
-3. A Expressão², precisa seguir essa estrutura:
-3.1 (N³ O⁴ N³)⁺;
-3.2 Sendo que N³ -> [0-9]; O⁴ -> + | - | * | / |; 
 
 AHO, A. V.;LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo: Pearson Addison-Wesley, 2008.¹
 Expressão², é a expressão arritimética dada pelo usuário.²
